@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-
+//init ch1
 public class QuizActivity extends AppCompatActivity {
         private Button mTrueButton;
         private Button mFalseButton;
