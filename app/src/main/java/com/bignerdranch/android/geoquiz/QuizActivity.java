@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//ch4 shows you how to use android LogCat and the debugging related tools no code here
 public class QuizActivity extends AppCompatActivity {
 
     private static final String TAG = "QuizActivity";
